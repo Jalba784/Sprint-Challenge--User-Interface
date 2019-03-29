@@ -144,3 +144,70 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* This is my new code */
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    align-items: flex-end;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.top-bar img {
+    margin-right: 50px;
+}
+
+/* Nav anchors */
+a {
+    padding: 0px 20px 0px 20px;
+    margin: 0px 27px 0px 0px;
+    text-decoration: none;
+}
+
+/* Highway pic */
+.highway-pic {
+    padding-bottom: 50px;
+}
+
+/* Box colors */
+#box1 {
+    background-color: teal;
+}
+
+#box2 {
+    background-color: gold;
+}
+
+#box3 {
+    background-color: cadetblue;
+}
+
+#box4 {
+    background-color: coral;
+}
+
+#box5 {
+    background-color: crimson;
+}
+
+#box6 {
+    background-color: forestgreen;
+}
+
+#box7 {
+    background-color: darkorchid;
+}
+
+#box8 {
+    background-color: hotpink;
+}
+
+#box9 {
+    background-color: indigo;
+}
+
+#box10 {
+    background-color: dodgerblue;
+}
