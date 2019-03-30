@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad8de13-d6f4-407d-bd99-4723fee936a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -15,47 +16,75 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.67591673">
+    <splitter split-orientation="horizontal" split-proportion="0.55390334">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.8842337">
+        <splitter split-orientation="horizontal" split-proportion="0.5">
           <split-first>
-            <splitter split-orientation="horizontal" split-proportion="0.5">
-              <split-first>
-                <leaf>
-                  <file pinned="false" current-in-tab="true">
-                    <entry file="file://$PROJECT_DIR$/README.md">
-                      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                        <state split_layout="SPLIT">
-                          <first_editor />
-                          <second_editor />
-                        </state>
-                      </provider>
-                    </entry>
-                  </file>
-                </leaf>
-              </split-first>
-              <split-second>
-                <leaf>
-                  <file pinned="false" current-in-tab="true">
-                    <entry file="file://$PROJECT_DIR$/css/index.css">
-                      <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="621">
-                          <caret line="175" column="26" selection-start-line="175" selection-start-column="26" selection-end-line="175" selection-end-column="26" />
-                        </state>
-                      </provider>
-                    </entry>
-                  </file>
-                </leaf>
-              </split-second>
-            </splitter>
+            <leaf>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/README.md">
+                  <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                    <state split_layout="SPLIT">
+                      <first_editor />
+                      <second_editor />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/about.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="199">
+                      <caret line="121" column="29" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/index.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="162">
+                      <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
           </split-first>
           <split-second>
             <leaf>
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/index.html">
+                <entry file="file://$PROJECT_DIR$/css/index.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="198">
-                      <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+                    <state relative-caret-position="342">
+                      <caret line="263" column="23" selection-start-line="263" selection-start-column="23" selection-end-line="263" selection-end-column="23" />
+                      <folding>
+                        <element signature="e#0#100#0" />
+                        <element signature="e#595#696#0" />
+                        <element signature="e#836#856#0" />
+                        <element signature="e#862#882#0" />
+                        <element signature="e#890#912#0" />
+                        <element signature="e#927#945#0" />
+                        <element signature="e#1001#1034#0" />
+                        <element signature="e#1041#1092#0" />
+                        <element signature="e#1096#1127#0" />
+                        <element signature="e#1140#1200#0" />
+                        <element signature="e#1221#1308#0" />
+                        <element signature="e#1312#1337#0" />
+                        <element signature="e#1350#1391#0" />
+                        <element signature="e#1406#1546#0" />
+                        <element signature="e#1577#1643#0" />
+                        <element signature="e#1661#1726#0" />
+                        <element signature="e#1747#1791#0" />
+                        <element signature="e#1816#1894#0" />
+                        <element signature="e#1924#2101#0" />
+                        <element signature="e#2119#2199#0" />
+                        <element signature="e#2233#2259#0" />
+                        <element signature="e#2304#2329#0" />
+                        <element signature="e#2338#2381#0" />
+                        <element signature="e#2394#2536#0" />
+                        <element signature="e#2551#2599#0" />
+                      </folding>
                     </state>
                   </provider>
                 </entry>
@@ -67,7 +96,7 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/design-files/home.png">
+            <entry file="file://$PROJECT_DIR$/design-files/about.png">
               <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
@@ -75,19 +104,28 @@
       </split-second>
     </splitter>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/about.css" />
         <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1366" />
+    <option name="width" value="580" />
     <option name="height" value="768" />
   </component>
   <component name="ProjectView">
@@ -116,6 +154,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
@@ -132,12 +171,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.about.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sprint-Challenge--User-Interface/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sprint-Challenge--User-Interface/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -152,18 +195,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553900749904</updated>
-      <workItem from="1553900751151" duration="2324000" />
+      <workItem from="1553900751151" duration="9632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2324000" />
+    <option name="totallyTimeSpent" value="9632000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24981412" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24907063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -172,7 +215,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -191,6 +234,9 @@
     <entry file="file://$PROJECT_DIR$/img/lambda-black.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/jumbo-about.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -199,17 +245,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/about.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        <state relative-caret-position="561">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/about-plan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-files/about.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="175" column="26" selection-start-line="175" selection-start-column="26" selection-end-line="175" selection-end-column="26" />
+        <state relative-caret-position="342">
+          <caret line="263" column="23" selection-start-line="263" selection-start-column="23" selection-end-line="263" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#100#0" />
+            <element signature="e#595#696#0" />
+            <element signature="e#836#856#0" />
+            <element signature="e#862#882#0" />
+            <element signature="e#890#912#0" />
+            <element signature="e#927#945#0" />
+            <element signature="e#1001#1034#0" />
+            <element signature="e#1041#1092#0" />
+            <element signature="e#1096#1127#0" />
+            <element signature="e#1140#1200#0" />
+            <element signature="e#1221#1308#0" />
+            <element signature="e#1312#1337#0" />
+            <element signature="e#1350#1391#0" />
+            <element signature="e#1406#1546#0" />
+            <element signature="e#1577#1643#0" />
+            <element signature="e#1661#1726#0" />
+            <element signature="e#1747#1791#0" />
+            <element signature="e#1816#1894#0" />
+            <element signature="e#1924#2101#0" />
+            <element signature="e#2119#2199#0" />
+            <element signature="e#2233#2259#0" />
+            <element signature="e#2304#2329#0" />
+            <element signature="e#2338#2381#0" />
+            <element signature="e#2394#2536#0" />
+            <element signature="e#2551#2599#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="121" column="29" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
         </state>
       </provider>
     </entry>

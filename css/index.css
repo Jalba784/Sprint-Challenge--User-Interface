@@ -144,7 +144,7 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
-
+/* ----------------------------------- */
 /* This is my new code */
 .top-bar {
     display: flex;
@@ -210,4 +210,56 @@ a {
 
 #box10 {
     background-color: dodgerblue;
+}
+/* --------------------------------------- */
+/* About CCS begins here */
+.center-top {
+    display: block;
+    max-width: 100%;
+    margin: 2%;
+}
+
+.center-bottom{
+    display: block;
+    max-width: 100%;
+    margin: 2%;
+}
+
+.dotted-top-line {
+    border-top: 1px dashed black;
+    /*padding: 0px 0px 0px 50px;*/
+    margin: 20px -17px 30px -17px;
+}
+
+/* Flex body */
+.bottom-body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-right: 10%;
+
+}
+
+.paras {
+    max-width: 40%;
+    padding-top: 20px;
+    justify-content: space-around;
+    border-bottom: 1px dashed black;
+}
+
+/* Button */
+button {
+    border: 1px solid black;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Last text */
+.last-port {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
