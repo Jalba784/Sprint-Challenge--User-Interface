@@ -221,7 +221,6 @@ a {
 
 .center-bottom{
     display: block;
-    /*max-width: 150%;*/
     margin: 0px 0px 0px 0px;
 }
 
@@ -247,8 +246,12 @@ a {
 #student-pic {
     margin: 0px 0px 10px 23px;
 }
-#fourth-paras{
+#first-paras {
+    border-bottom: 1px dashed black;
+}
+#second-paras{
     margin: 0px 0px 0px 23px;
+    border-bottom: 1px dashed black;
 }
 
 /* Second portion of bottom*/
@@ -267,15 +270,19 @@ a {
 #group-pic {
     margin: 0px 0px 10px 23px;
 }
-#second-paras{
+#third-paras {
+    border-bottom: 1px dashed black;
+}
+#fourth-paras{
     margin: 0px 0px 0px 23px;
+    border-bottom: 1px dashed black;
 }
 /*--------------------------------------------------*/
 .paras {
     max-width: 50%;
     padding-top: 20px;
     justify-content: space-around;
-    border-bottom: 1px dashed black;
+    /*border-bottom: 1px dashed black;*/
 }
 
 /* Button */
