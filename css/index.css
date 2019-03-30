@@ -221,8 +221,8 @@ a {
 
 .center-bottom{
     display: block;
-    max-width: 100%;
-    margin: 2%;
+    /*max-width: 150%;*/
+    margin: 0px 0px 0px 0px;
 }
 
 .dotted-top-line {
@@ -231,17 +231,48 @@ a {
     margin: 20px -17px 30px -17px;
 }
 
-/* Flex body */
-.bottom-body {
+/* First portion of bottom*/
+.first-bottom-body {
+    display: block;
+    height: 50%;
+}
+.first-two {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
-    padding-right: 10%;
-
+    padding: 0px 20px 0px 0px;
+}
+#strategy-pic {
+    margin: 0px 0px 10px 0px;
+}
+#student-pic {
+    margin: 0px 0px 10px 23px;
+}
+#fourth-paras{
+    margin: 0px 0px 0px 23px;
 }
 
+/* Second portion of bottom*/
+.second-bottom-body {
+    display: block;
+    height: 50%;
+}
+.second-two {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px 0px 0px;
+}
+#workspace-pic {
+    margin: 0px 0px 10px 0px;
+}
+#group-pic {
+    margin: 0px 0px 10px 23px;
+}
+#second-paras{
+    margin: 0px 0px 0px 23px;
+}
+/*--------------------------------------------------*/
 .paras {
-    max-width: 40%;
+    max-width: 50%;
     padding-top: 20px;
     justify-content: space-around;
     border-bottom: 1px dashed black;
@@ -263,3 +294,4 @@ button {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
